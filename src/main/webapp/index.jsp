@@ -44,7 +44,7 @@ id="personaladdress" size="30"></td>
 
 <tr>
 <td>Sex</td>
-<td><input type="radio" name="sex" value="male" size="10">Male
+<td><input type="radio" name="Gender" value="male" size="10">Male
 <input type="radio" name="Gender" value="Female" size="10">Female</td>
 </tr>
 
